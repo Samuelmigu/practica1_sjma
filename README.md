@@ -12,7 +12,7 @@ Para utilizar este programa, sigue estos pasos:
 2. Descarga el código fuente de este proyecto desde el repositorio de GitHub:
 
 ```bash
-git clone https://github.com/tu-usuario/peso_planetas_sistema_solar.git
+git clone https://github.com/Samuelmigu/practica1_sjma
 ```
 
 3. Navega hasta el directorio del proyecto:
